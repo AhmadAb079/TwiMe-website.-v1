@@ -108,7 +108,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 </p>
               </div>
 
-              <div className="aspect-square bg-gradient-to-br from-blue-200 to-pink-200 rounded-2xl flex items-center justify-center">
+              <div className="aspect-square bg-gradient-to-br from-blue-300 to-pink-300 rounded-2xl flex items-center justify-center">
                 <div className="text-center">
                   <Users className="w-32 h-32 mx-auto text-blue-600 mb-4" />
                   <p className="text-gray-700 font-medium">Crafted with compassion</p>
